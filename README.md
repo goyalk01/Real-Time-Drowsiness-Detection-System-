@@ -41,6 +41,10 @@ DDD_CNN_PE_Review3/
 └── 📖 README.md                            # Project documentation
 ```
 
+## 📦 Dataset
+
+- Primary download: [Download Dataset](https://www.kaggle.com/datasets/banudeep/nthuddd2)  
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -71,6 +75,7 @@ DDD_CNN_PE_Review3/
 
 4. **Download required models**
    - Download `shape_predictor_68_face_landmarks.dat` from [dlib models](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
+   - Download `mmod_human_face_detector.dat` from [Kaggle](https://www.kaggle.com/datasets/leeast/mmod-human-face-detector-dat)
    - Extract to project root directory
 
 ### 🎮 Usage
