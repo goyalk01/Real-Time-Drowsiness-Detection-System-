@@ -43,7 +43,7 @@ DDD_CNN_PE_Review3/
 
 ## 📦 Dataset
 
-- Primary download: [Download Dataset](https://www.kaggle.com/datasets/banudeep/nthuddd2)  
+- Kaggle Link for downloading dataset: [Download](https://www.kaggle.com/datasets/banudeep/nthuddd2)  
 
 ## 🚀 Quick Start
 
