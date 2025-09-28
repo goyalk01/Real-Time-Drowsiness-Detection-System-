@@ -3,8 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GPU](https://img.shields.io/badge/GPU-RTX%204050%20Optimized-brightgreen.svg)](https://www.nvidia.com/en-us/geforce/)
 
 > **An advanced AI-powered drowsiness detection system that uses deep learning and computer vision to monitor driver alertness in real-time. Built with CNN architecture and optimized for NVIDIA RTX GPUs.**
 
@@ -82,22 +80,22 @@ DDD_CNN_PE_Review3/
 
 #### Basic Detection
 ```bash
-python ultimate_drowsiness_detector_v3.py
+python drowsiness_detector_v3.py
 ```
 
 #### Advanced Options
 ```bash
 # Manual configuration mode
-python ultimate_drowsiness_detector_v3.py --manual-config
+python drowsiness_detector_v3.py --manual-config
 
 # Different camera
-python ultimate_drowsiness_detector_v3.py --camera-index 1
+python drowsiness_detector_v3.py --camera-index 1
 
 # Disable audio alerts
-python ultimate_drowsiness_detector_v3.py --no-audio
+python drowsiness_detector_v3.py --no-audio
 
 # Force CPU mode
-python ultimate_drowsiness_detector_v3.py --force-cpu
+python drowsiness_detector_v3.py --force-cpu
 ```
 
 #### Interactive Controls
@@ -292,9 +290,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Add tests
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
